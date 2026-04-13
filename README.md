@@ -1,6 +1,12 @@
 # 💫  “ Building systems that predict their own failures ”:
 ---
-Computational Engineering student at IIT Hyderabad working on ML-driven, self-healing systems.<br> I build full-stack applications using React, Node.js, Express, and PostgreSQL, and <br>work with Docker, Kubernetes, and Linux to run and scale them.<br><br>Focused on real-time systems, predictive monitoring, and automation.<br> Currently building S.H.I.M., a self-healing infrastructure monitor <br>that predicts failures before they happen—driven by the idea that systems should be autonomous, <br>not reactive. 🚀
+Computational Engineering student at IIT Hyderabad working on ML-driven, self-healing systems.
+
+I build full-stack applications using React, Node.js, Express, and PostgreSQL, and work with Docker, Kubernetes, and Linux to run and scale them.
+
+Focused on real-time systems, predictive monitoring, and automation.
+
+Currently building S.H.I.M., a self-healing infrastructure monitor that predicts failures before they happen—driven by the idea that systems should be autonomous, not reactive. 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-nakirikanti-3349ba388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:co25btech11016@iith.ac.in) 
 ---
