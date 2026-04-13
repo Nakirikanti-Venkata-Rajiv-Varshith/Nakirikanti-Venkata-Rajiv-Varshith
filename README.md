@@ -40,6 +40,10 @@ Currently building S.H.I.M., a self-healing infrastructure monitor that predicts
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### 🤖 Machine Learning
+![Predictive Systems](https://img.shields.io/badge/Predictive%20Systems-%2300A67E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-%23FF6F00.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+
 ### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
