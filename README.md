@@ -86,6 +86,5 @@ Currently building S.H.I.M., a self-healing infrastructure monitor that predicts
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Nakirikanti-Venkata-Rajiv-Varshith&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
