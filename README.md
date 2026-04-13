@@ -67,12 +67,25 @@ Currently building S.H.I.M., a self-healing infrastructure monitor that predicts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-nakirikanti-3349ba388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:co25btech11016@iith.ac.in) 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nakirikanti-Venkata-Rajiv-Varshith&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nakirikanti-Venkata-Rajiv-Varshith&theme=transparent&hide_border=false)<br/>
+## 📊 GitHub Stats:
+
+<table>
+<tr>
+<td width="50%">
+
+![](https://github-readme-stats.shion.dev/api?username=Nakirikanti-Venkata-Rajiv-Varshith&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
+</td>
+<td width="50%">
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nakirikanti-Venkata-Rajiv-Varshith&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</td>
+</tr>
+</table>
+
 ---
+
 [![](https://komarev.com/ghpvc/?username=Nakirikanti-Venkata-Rajiv-Varshith&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
