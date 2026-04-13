@@ -21,7 +21,7 @@ Currently building S.H.I.M., a self-healing infrastructure monitor that predicts
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="50"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="70"/>
 </p>
 
 ### ⚙️ Backend
