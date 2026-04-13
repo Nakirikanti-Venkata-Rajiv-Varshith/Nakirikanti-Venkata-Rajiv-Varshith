@@ -7,6 +7,7 @@ I build full-stack applications using React, Node.js, Express, and PostgreSQL, a
 Focused on real-time systems, predictive monitoring, and automation.
 
 Currently building S.H.I.M., a self-healing infrastructure monitor that predicts failures before they happen—driven by the idea that systems should be autonomous, not reactive. 🚀
+
 ---
 
 ## 💻 Tech Stack:
