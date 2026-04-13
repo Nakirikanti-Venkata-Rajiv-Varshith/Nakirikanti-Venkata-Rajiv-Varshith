@@ -7,8 +7,6 @@ I build full-stack applications using React, Node.js, Express, and PostgreSQL, a
 Focused on real-time systems, predictive monitoring, and automation.
 
 Currently building S.H.I.M., a self-healing infrastructure monitor that predicts failures before they happen—driven by the idea that systems should be autonomous, not reactive. 🚀
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-nakirikanti-3349ba388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:co25btech11016@iith.ac.in) 
 ---
 
 ## 💻 Tech Stack:
@@ -63,6 +61,9 @@ Currently building S.H.I.M., a self-healing infrastructure monitor that predicts
 </tr>
 </table>
 
+---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-nakirikanti-3349ba388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:co25btech11016@iith.ac.in) 
 ---
 
 # 📊 GitHub Stats:
