@@ -1,4 +1,4 @@
-# 💫  “Building systems that predict their own failures.”:
+# 💫  “ Building systems that predict their own failures ”:
 Computational Engineering student at IIT Hyderabad working on ML-driven, self-healing systems.<br> I build full-stack applications using React, Node.js, Express, and PostgreSQL, and <br>work with Docker, Kubernetes, and Linux to run and scale them.<br><br>Focused on real-time systems, predictive monitoring, and automation.<br> Currently building S.H.I.M., a self-healing infrastructure monitor <br>that predicts failures before they happen—driven by the idea that systems should be autonomous, <br>not reactive. 🚀
 
 
