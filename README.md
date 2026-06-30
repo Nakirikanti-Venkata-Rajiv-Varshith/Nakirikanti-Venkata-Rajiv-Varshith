@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/varshith-nakirikanti-3349ba388/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:co25btech11016@iith.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Computational+Engineering+%40+IIT+Hyderabad;Edge+AI+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Distributed+Computing;Research+Intern+%40+NetX+Lab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=115&lines=Computational+Engineering+%40+IIT+Hyderabad;Edge+AI+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Distributed+Computing;Research+Intern+%40+NetX+Lab" alt="Typing SVG" />
 
 </div>
 
