@@ -11,9 +11,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
-
-### 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=45&text=👋%20About%20Me&fontSize=22&fontColor=ffffff" width="100%"/>
 
 Research Intern @ **NetX Lab, IIT Hyderabad** — building ROS-based adaptive edge-cloud architectures, real-time computer vision pipelines, and resource-aware AI deployment on embedded platforms.
 
@@ -21,9 +19,9 @@ I build full-stack systems with React, Node.js, Express, and PostgreSQL, and run
 
 Currently building **S.H.I.M.**, a self-healing infrastructure monitor that forecasts failures before they happen — because systems should be autonomous, not reactive. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+<br>
 
-## 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=45&text=💻%20Tech%20Stack&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -81,9 +79,9 @@ Currently building **S.H.I.M.**, a self-healing infrastructure monitor that fore
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+<br>
 
-## 🔬 Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=45&text=🔬%20Featured%20Work&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -112,9 +110,9 @@ ML-driven self-healing system forecasting CPU/RAM/Disk/GPU utilization 5 minutes
 
 🐦 **Viral Flying Bird** — Browser-based arcade game with physics-driven gameplay and optimized rendering.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+<br>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=45&text=📊%20GitHub%20Stats&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Nakirikanti-Venkata-Rajiv-Varshith&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000"/>
